@@ -5,4 +5,6 @@ I decided to use Python to perform the webscraping to gather the data and R to c
 
 The order or the analysis is:
 1) RI_Voters.md (R)
-2) 
+2) Rep_Voter_Bot.md (Py)
+3) RI_House_30_Voters.md (R)
+4) RI_Senate_35_Voters.md (R)
